@@ -1,5 +1,5 @@
-short axis cardiac MRI slice | 31.732168197631836
-long axis cardiac MRI slice | 31.6761531829834
-basal left ventricle MRI slice T1-weighted appearance | 31.516305923461914
-basal left ventricle MRI image T1-weighted appearance | 31.29973793029785
-basal left ventricle MRI slice T1-weighted appearance ventricular view | 31.298656463623047
+short axis cardiac MRI slice T1-weighted appearance | 32.419349670410156
+long axis cardiac MRI slice T1-weighted appearance | 32.34211349487305
+short axis cardiac MRI slice | 32.03339385986328
+short axis cardiac MRI image | 31.937673568725586
+long axis cardiac MRI slice | 31.918739318847656
